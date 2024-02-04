@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lee
-- 👀 I’m interested in design, music and gaming.
+- 👀 I’m interested in design, development, music and gaming.
 - 🌱 I’m currently learning JavaScript, React and Laravel.
 - 📫 Catch me on Instagram [@bleoho](https://www.instagram.com/bleoho/)
 
